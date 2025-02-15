@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U3PLVWJ)
- Support me on future projects by signing up for [Embotic Hosting!](https://dash.embotic.xyz/register?ref=F0rsUqnv) It's free (credit-based), easy to use, and has many use cases! `Note: I am in no way affiliated with them, just trying to spread my reference link to hopefully gain credits.`
+---
+Support me on future projects by signing up for [Embotic Hosting!](https://dash.embotic.xyz/register?ref=F0rsUqnv) It's free (credit-based), easy to use, and has many use cases! `Note: I am in no way affiliated with them, just trying to spread my reference link to hopefully gain credits.`
 
 ![status](https://api.statusbadges.me/badge/status/764596308459257937) ![playing](https://api.statusbadges.me/badge/playing/764596308459257937) [![spotify](https://api.statusbadges.me/badge/spotify/764596308459257937)](https://api.statusbadges.me/openspotify/764596308459257937)
