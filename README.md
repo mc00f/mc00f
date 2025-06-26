@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mc00f!
 - 👀 I’m interested in planes and technology.
-- 🌱 I’m currently learning `nothing`
-- 💞️ I’m looking to collaborate on `nothing`
-- 📫 How to reach me: [my email](mailto:mcoof.9847@gmail.com) or `mc00ffr` on discord
+- 🌱 I’m currently learning `docker, cloudflared, and more about IT`
+- 💞️ I’m looking to collaborate on `nothing rn`
+- 📫 How to reach me: [my email](mailto:hello@mc00f.xyz) or `mc00ffr` on discord
 - 😄 Pronouns: he/him
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U3PLVWJ)
